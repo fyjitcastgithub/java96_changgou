@@ -12,4 +12,9 @@ public class TestDemo1 {
 
 
     }
+
+
+    public  void  testDemo(){
+        System.out.println("====================>");
+    }
 }
